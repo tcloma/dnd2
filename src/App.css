@@ -22,3 +22,25 @@
   z-index: -1;
   object-fit: fill;
 }
+
+.menu-links{
+  margin-top: -10%;
+}
+
+.menu-links h3{
+  color: #fff;
+  font-size: 2em;
+  padding-left: 2.5%;
+  /* text-align: center; */
+}
+
+h3:hover{
+  cursor: pointer;
+  color: orange;
+}
+
+.selected-char-img{
+  width: 400px;
+  height: auto;
+  display: block;
+}
